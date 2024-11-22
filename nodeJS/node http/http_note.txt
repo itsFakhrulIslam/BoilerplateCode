@@ -1,0 +1,38 @@
+HTTP
+----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Packages
+------------------
+installing
+npm i packagesName / npm install packagesName
+
+
+uninstalling
+npm uninstall packagesName
+
+
+install particular packages version
+npm i packagesName@particularVersionNo
+
+
+dependencies 
+dependencies means a packeges to another packages dependent together, so called dependencies.
+
+
+devdependencies
+devdenpendencies means a packages only work in developing time, then when projects is completed with ready for deploy, then we will not use this packages in our projects. example:( npm i nodemon --save-dev )
